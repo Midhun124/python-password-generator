@@ -1,4 +1,4 @@
-# Simple Password generator
+# The Hard Password generator
 import random
 
 # The list of alphabets
